@@ -71,3 +71,17 @@ students = create_students()
 for student in students:
     student.introduce_myself()
     print("-" * 40)  # Разделитель между студентами
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
