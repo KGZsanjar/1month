@@ -1,6 +1,6 @@
 # 1. Создать класс Person с атрибутами fullname, age, is_married
 class Person:
-    def init(self, fullname, age, is_married):
+    def  init  (self, fullname, age, is_married):
         self.fullname = fullname
         self.age = age
         self.is_married = is_married
@@ -84,4 +84,25 @@ for student in students:
 
 
 
-    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
