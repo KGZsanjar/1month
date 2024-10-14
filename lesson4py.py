@@ -324,3 +324,28 @@ if isinstance(heroes[2], Hacker):
     heroes[2].steal_health(boss, heroes)
 
 start_game()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
