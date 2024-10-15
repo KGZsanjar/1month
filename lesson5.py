@@ -34,3 +34,16 @@ def guess_number(range_start, range_end, attempts, initial_capital):
             break
 
     print(f"Игра окончена! Ваш итоговый капитал: {capital}")
+
+
+
+
+
+
+
+
+
+
+
+
+
